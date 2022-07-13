@@ -16,9 +16,6 @@
   },
   "author": "Crisp IM SAS",
   "license": "MIT",
-  "dependencies": {
-    "re2": "1.16.0"
-  },
   "devDependencies": {
     "nodeunit": "v0.11.1",
     "underscore": "v1.12.1"
